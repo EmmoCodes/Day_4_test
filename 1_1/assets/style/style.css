@@ -1,0 +1,8 @@
+section article {
+  background-color: aqua;
+  border: black 25px solid;
+  display: block;
+  margin: auto;
+  padding: 0px 25px 0px 25px;
+  width: 200px;
+}
